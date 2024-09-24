@@ -13,7 +13,7 @@ I work with a wide range of technologies to build scalable and efficient solutio
 - **DevOps**: Git, GitHub
 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Krishna-gupta10&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-gupta10&layout=compact&theme=radical)
 
 
 
