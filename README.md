@@ -3,6 +3,7 @@
 
 I am a final-year BTech student at VIIT, Pune, with a strong passion for web development. Alongside my development skills, I have a solid foundation in Data Structures and Algorithms, which enables me to write efficient and optimized code.
 
+
 ## 🔧 Technologies & Tools
 
 I work with a wide range of technologies to build scalable and efficient solutions. My stack includes:
@@ -10,6 +11,11 @@ I work with a wide range of technologies to build scalable and efficient solutio
 - **Frontend**: React, Vite, Angular, JavaScript, HTML, CSS, Bootstrap
 - **Backend**: Node.js, Express, Flask
 - **DevOps**: Git, GitHub
+
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Krishna-gupta10&show_icons=true&theme=radical)
+
+
 
 ## 📫 How to Reach Me
 
