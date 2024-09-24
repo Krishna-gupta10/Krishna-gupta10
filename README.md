@@ -14,7 +14,8 @@ I work with a wide range of technologies to build scalable and efficient solutio
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-gupta10&layout=compact&theme=radical)
----
+
+
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Krishna-gupta10&theme=radical)
 
 
