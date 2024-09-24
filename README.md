@@ -20,7 +20,7 @@ I work with a wide range of technologies to build scalable and efficient solutio
 ## 📫 How to Reach Me
 
 Feel free to connect with me via:
-- [LinkedIn]([https://www.linkedin.com/in/krishna-gupta-838627229/])
+- [LinkedIn](https://www.linkedin.com/in/krishna-gupta-838627229/)
 
 
 **Thank you for stopping by!**
