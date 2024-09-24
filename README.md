@@ -11,14 +11,6 @@ I work with a wide range of technologies to build scalable and efficient solutio
 - **Backend**: Node.js, Express, Flask
 - **DevOps**: Git, GitHub
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 📫 How to Reach Me
 
 Feel free to connect with me via:
